@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mohamedmarnissi26
 - 👀 I’m interested in computer science .
-- 🌱 I’m currently learning C language/SDL .
 - 💞️ I’m looking to collaborate on projects .
 - 📫 How to reach me Via my personal email : mohamed.marnissi.a@gmail.com .
 
